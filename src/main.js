@@ -19,7 +19,7 @@ const app = createApp(App);
 const pinia = createPinia();
 pinia.use(piniaPluginPersistedstate)
 
-let environment = process.env.VUE_APP_ENV;
+let environment = import.meta.env.VITE_ENV;
 
 if (!configData[environment]) {
   console.info(
