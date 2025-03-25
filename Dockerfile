@@ -10,7 +10,7 @@ ADD deployments/nginx/${NGX_FILE} /etc/nginx/conf.d/default.conf
 COPY dist /usr/share/nginx/html/pasarela/
 
 # Expone el puerto en el que nginx se ejecutará
-EXPOSE 80
+EXPOSE 8080
 
 # Comando para ejecutar nginx
 CMD ["nginx", "-g", "daemon off;"]
