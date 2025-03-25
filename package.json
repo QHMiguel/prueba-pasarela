@@ -1,0 +1,49 @@
+{
+  "name": "is-mix-pasarela-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "lint": "vue-cli-service lint",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.9",
+    "canvas-confetti": "^1.9.3",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "dotenv-webpack": "^8.1.0",
+    "html2canvas": "^1.4.1",
+    "is-pasarela-component": "^0.8.0",
+    "lodash": "^4.17.21",
+    "mitt": "^3.0.1",
+    "moment": "^2.30.1",
+    "pinia": "^2.3.1",
+    "pinia-plugin-persistedstate": "^4.2.0",
+    "roboto-fontface": "*",
+    "unplugin-vue-components": "^28.4.1",
+    "vee-validate": "^4.15.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuetify": "^3.0.0-beta.0",
+    "webfontloader": "^1.0.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "prettier": "^2.4.1",
+    "vite": "^3.2.11",
+    "vite-plugin-vuetify": "^1.0.0-alpha.12",
+    "vue-cli-plugin-vuetify": "~2.5.8"
+  }
+}

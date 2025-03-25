@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes Thin.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Omnes";
+  src: url("@/assets/fonts/Omnes Bold Italic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Agrega las demás variantes según sea necesario */

@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "VITE_NIUBIZ_IP": "https://apitestenv.vnforapps.com/api.ecommerce/v2/clientip",
+        "VITE_PASARELA_GATEWAY": "https://is-cr-pasarelas-web-gateway-844194900662.us-central1.run.app",
+        "VITE_PASARELA_AUTH": "https://is-cr-pasarelas-auth-844194900662.us-central1.run.app",
+        "VITE_AUTH_CLIENT": "MIX_PASARELAS_FRONT",
+        "VITE_AUTH_SECRET": "mix-pasarela-front 2025"
+    },
+    "test": {
+        "VITE_NIUBIZ_IP": "https://apitestenv.vnforapps.com/api.ecommerce/v2/clientip",
+        "VITE_PASARELA_GATEWAY": "https://is-cr-pasarelas-web-gateway-844194900662.us-central1.run.app",
+        "VITE_PASARELA_AUTH": "https://is-cr-pasarelas-auth-844194900662.us-central1.run.app",
+        "VITE_AUTH_CLIENT": "MIX_PASARELAS_FRONT",
+        "VITE_AUTH_SECRET": "mix-pasarela-front 2025"
+    },
+    "main": {
+        "VITE_NIUBIZ_IP": "https://apitestenv.vnforapps.com/api.ecommerce/v2/clientip",
+        "VITE_PASARELA_GATEWAY": "https://is-cr-pasarelas-web-gateway-844194900662.us-central1.run.app",
+        "VITE_PASARELA_AUTH": "https://is-cr-pasarelas-auth-844194900662.us-central1.run.app",
+        "VITE_AUTH_CLIENT": "MIX_PASARELAS_FRONT",
+        "VITE_AUTH_SECRET": "mix-pasarela-front 2025"
+    }
+}
